@@ -6,4 +6,5 @@ O objetivo central deste projeto foi desenvolver um dashboard interativo e autom
 
 Por fim, utilizando o Power BI, foram criadas visualizações de indicadores comparativos e temporais considerados essenciais para o acompanhamento da carteira, tais como capital investido total e por ação, variação do capital investido, margem percentual total e sua variação por ação, histórico de variação do capital investido e variação da margem percentual por ação ao longo do tempo, entre outros.
  
- 
+
+
